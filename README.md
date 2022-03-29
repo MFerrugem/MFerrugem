@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Artificial Intelligence, Computer Vision and Light Field.
 - 👯 I’m looking to collaborate on Light Field
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Artificial Intelligence, Computer Vision and Light Field.
 - ![image](https://user-images.githubusercontent.com/32166571/160506744-4544e79e-17bd-4b72-b710-ca9eecad463c.png)
 xxxx
